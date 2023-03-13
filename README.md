@@ -1,1 +1,1 @@
-# squad-web-app
+# cinecritique-web-app
