@@ -1,1 +1,1 @@
-# cinecritique-web-app
+# cinecritique
